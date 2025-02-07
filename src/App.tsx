@@ -124,6 +124,15 @@ function App() {
     return () => clearInterval(interval);
   }, []);
 
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentIndex((prev) => (prev + 1) % reasons.length);
+    }, 10000); // Cambia cada 30 segundos
+  
+    return () => clearInterval(interval);
+  }, []);
+
   const nextReason = () => {
     setCurrentIndex((prev) => (prev + 1) % reasons.length);
   };
@@ -155,12 +164,12 @@ function App() {
       <div className="container mx-auto px-4 py-8 relative">
         <div className="max-w-2xl mx-auto">
           <div className="text-center mb-8">
-            <h1 className="title text-5xl font-bold text-pink-600 mb-6 filter drop-shadow-lg">
+            <h1 className="title text-5xl font-bold text-pink-600 mb-8 filter drop-shadow-lg">
               Para Mi Amada Xymena
             </h1>
             <div className="flex items-center justify-center gap-2 mb-4">
               <Stars className="text-pink-500" />
-              <p className="body text-gray-600 text-lg italic">
+              <p className="body text-2xl text-gray-600 italic">
                 {loveQuotes[currentQuote]}
               </p>
               <Stars className="text-pink-500" />
@@ -212,7 +221,7 @@ function App() {
 
             {showNoReasons && (
               <div className="mt-6 p-8 bg-white/90 backdrop-blur-sm rounded-lg shadow-md transform hover:scale-[1.01] transition-all">
-                <p className="text-xl text-gray-700 leading-relaxed">
+                <p className="title text-xl text-gray-700 leading-relaxed">
                   Mi querida Xymena, no existe ninguna razón para rendirme. 
                   Cada obstáculo que enfrentamos solo fortalece mi amor por ti. 
                   Quiero demostrarte cada día lo mucho que significas para mí y 
