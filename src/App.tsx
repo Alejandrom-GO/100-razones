@@ -10,6 +10,13 @@ const reasons = [
   "Porque tu nombre, Xymena, es la palabra más dulce que pronuncio",
   "Porque cada problema que superamos nos hace más fuertes",
   "Porque tu forma de ser me enamora cada día más",
+  "Porque cuando me pierdo en tus ojos, olvido todo lo demás.",
+  "Porque amo la manera en que te preocupas por los que amas.",
+  "Porque cada vez que dices mi nombre, suena más hermoso.",
+  "Porque adoro cómo frunces el ceño cuando te concentras.",
+  "Porque abrazarte es mi lugar favorito en el mundo.",
+  "Porque cuando ríes, iluminas hasta el día más oscuro.",
+  "Porque cada pequeño gesto tuyo me recuerda lo afortunado que soy.",
   "Porque contigo aprendo a ser mejor persona",
   "Porque nuestros corazones laten en sintonía con el plan de Dios",
   "Porque la forma en que juegas con tu cabello me hipnotiza",
@@ -99,6 +106,8 @@ const reasons = [
 ];
 
 
+
+
 const loveQuotes = [
   "El amor verdadero no se rinde ante las dificultades",
   "Cada obstáculo es una oportunidad para demostrar nuestro amor",
@@ -120,7 +129,7 @@ function App() {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentQuote((prev) => (prev + 1) % loveQuotes.length);
-    }, 5000);
+    }, 30000);
     return () => clearInterval(interval);
   }, []);
 
@@ -128,7 +137,7 @@ function App() {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentIndex((prev) => (prev + 1) % reasons.length);
-    }, 10000); // Cambia cada 30 segundos
+    }, 9000); // Cambia cada 30 segundos
   
     return () => clearInterval(interval);
   }, []);
@@ -145,7 +154,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-pink-100 via-purple-100 to-pink-100 relative overflow-hidden">
       {/* Floating hearts background */}
       <div className="absolute inset-0 pointer-events-none">
-        {[...Array(20)].map((_, i) => (
+        {[...Array(50)].map((_, i) => (
           <div
             key={i}
             className="absolute animate-float"
@@ -156,7 +165,7 @@ function App() {
               opacity: 0.1
             }}
           >
-            <Heart className="text-pink-400 w-8 h-8" />
+            <Heart className="text-pink-600 w-8 h-8" />
           </div>
         ))}
       </div>
@@ -169,7 +178,7 @@ function App() {
             </h1>
             <div className="flex items-center justify-center gap-2 mb-4">
               <Stars className="text-pink-500" />
-              <p className="body text-2xl text-gray-600 italic">
+              <p className="body text-3xl text-gray-600 italic">
                 {loveQuotes[currentQuote]}
               </p>
               <Stars className="text-pink-500" />
