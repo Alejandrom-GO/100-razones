@@ -116,7 +116,7 @@ const reasons = [
 "Porque nuestras almas estaban destinadas a encontrarse,"
 "Porque tu voz es mi canción favorita,"
 "Porque Dios me mostró su amor al ponerme en tu camino,"
-"Porque cada vez que duermes en mis brazos, mi corazón salta de felicidad"
+"Porque cada vez que duermes en mis brazos, mi corazón salta de felicidad",
   "Porque quiero escribir cada capítulo de mi vida contigo",
   "Porque cada sacrificio que hago por nosotros vale la pena",
   "Porque tu manera de amar es única y especial",
