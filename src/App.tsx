@@ -50,72 +50,72 @@ const reasons = [
   "Porque la forma en que te preocupas por los demás es admirable",
   "Porque tu ternura y dulzura son inigualables",
  "Porque cuando bailas sin darte cuenta, me pareces la persona más linda",
-  "Porque eres el milagro más hermoso que Dios puso en mi vida,"
-"Porque cada día a tu lado es una bendición que no merezco, pero agradezco,"
-"Porque cuando me abrazas, siento que estoy en casa,"
-"Porque tu risa es la melodía que alegra mis días,"
-"Porque eres el mejor regalo que Dios me ha dado,"
-"Porque cuando me tomas de la mano, el mundo deja de ser un lugar incierto,"
-"Porque en tus ojos veo reflejado el amor de Dios,"
-"Porque cada día a tu lado es una nueva oportunidad de ser feliz,"
-"Porque Dios te hizo perfecta para mí,"
-"Porque tu amor me enseña a confiar en los planes de Dios,"
-"Porque cuando estamos juntos, sé que nada es imposible,"
-"Porque amo la manera en la que iluminas mi vida sin siquiera intentarlo,"
-"Porque cuando me miras con ternura, el tiempo se detiene,"
-"Porque Dios puso en mi camino a la persona exacta que necesitaba,"
-"Porque cuando oro, siempre le pido a Dios que me permita amarte toda la vida,"
-"Porque cada día descubro un nuevo motivo para enamorarme de ti,"
-"Porque a tu lado, incluso los días difíciles tienen sentido,"
-"Porque cuando me abrazas fuerte, todo mi mundo cobra sentido,"
-"Porque cada te amo tuyo es un tesoro que guardo en mi corazón,"
-"Porque contigo aprendí que el amor verdadero existe,"
-"Porque Dios nos juntó con un propósito maravilloso,"
-"Porque tu amor es la respuesta a todas mis oraciones,"
-"Porque contigo quiero escribir la historia más hermosa de todas,"
-"Porque la dulzura de tu voz me calma en los momentos difíciles,"
-"Porque cada detalle tuyo es una prueba del amor que Dios nos tiene,"
-"Porque cuando estamos juntos, sé que estoy donde debo estar,"
-"Porque cada vez que cierro los ojos, lo único que veo eres tú,"
-"Porque Dios nos bendijo con un amor que todo lo puede,"
-"Porque tus palabras me dan fuerzas cuando más las necesito,"
-"Porque tus abrazos son mi refugio en cualquier tormenta,"
-"Porque cuando estamos lejos, mi corazón solo quiere volver a ti,"
-"Porque con solo mirarte, sé que Dios ha sido bueno conmigo,"
-"Porque cada sacrificio vale la pena si es por nuestro amor,"
-"Porque en tu sonrisa veo la promesa de un futuro hermoso,"
-"Porque quiero pasar toda mi vida agradeciendo a Dios por ponerte en mi camino,"
-"Porque cuando me miras, siento que todo es posible,"
-"Porque cada amanecer a tu lado es un nuevo motivo para sonreír,"
-"Porque eres la respuesta a mis sueños más profundos,"
-"Porque nuestra historia es una prueba de que Dios escribe los mejores guiones,"
-"Porque cuando caminas a mi lado, sé que no hay miedo ni duda que nos venza,"
-"Porque cuando pronuncio tu nombre, mi corazón late más fuerte,"
-"Porque nuestra fe nos mantiene unidos en todo momento,"
-"Porque con cada beso tuyo entiendo lo que significa el amor verdadero,"
-"Porque Dios nos regaló este amor y quiero honrarlo todos los días,"
-"Porque cada vez que sonríes, siento que el cielo se ilumina,"
-"Porque en cada uno de tus abrazos encuentro fortaleza,"
-"Porque nuestro amor es un reflejo del amor que Dios tiene por nosotros,"
-"Porque contigo todo es más fácil, incluso los días difíciles,"
-"Porque cuando cierro los ojos y pienso en el futuro, solo te veo a ti,"
-"Porque cada instante contigo es un recuerdo hermoso que guardo en mi alma,"
-"Porque me haces ver la belleza en las cosas más simples,"
-"Porque cuando caminas a mi lado, sé que nunca estaré solo,"
-"Porque tus besos son la más dulce de las bendiciones,"
-"Porque cada segundo lejos de ti es un segundo perdido,"
-"Porque en cada mirada tuya encuentro un te amo sin necesidad de palabras,"
-"Porque cuando llueve, lo único que quiero es estar contigo bajo la tormenta,"
-"Porque si Dios nos unió, es porque tiene un propósito increíble para nosotros,"
-"Porque nuestras diferencias nos hacen más fuertes,"
-"Porque con cada paso que damos juntos, construimos algo eterno,"
-"Porque amo la forma en la que te preocupas por los demás,"
-"Porque Dios me hizo para amarte y cuidar de ti siempre,"
-"Porque eres la paz en medio de cualquier tormenta,"
-"Porque cuando me miras con amor, todo el mundo desaparece,"
-"Porque nuestras almas estaban destinadas a encontrarse,"
-"Porque tu voz es mi canción favorita,"
-"Porque Dios me mostró su amor al ponerme en tu camino,"
+  "Porque eres el milagro más hermoso que Dios puso en mi vida",
+"Porque cada día a tu lado es una bendición que no merezco, pero agradezco",
+"Porque cuando me abrazas, siento que estoy en casa",
+"Porque tu risa es la melodía que alegra mis días",
+"Porque eres el mejor regalo que Dios me ha dado",
+"Porque cuando me tomas de la mano, el mundo deja de ser un lugar incierto",
+"Porque en tus ojos veo reflejado el amor de Dios",
+"Porque cada día a tu lado es una nueva oportunidad de ser feliz",
+"Porque Dios te hizo perfecta para mí",
+"Porque tu amor me enseña a confiar en los planes de Dios",
+"Porque cuando estamos juntos, sé que nada es imposible",
+"Porque amo la manera en la que iluminas mi vida sin siquiera intentarlo",
+"Porque cuando me miras con ternura, el tiempo se detiene",
+"Porque Dios puso en mi camino a la persona exacta que necesitaba",
+"Porque cuando oro, siempre le pido a Dios que me permita amarte toda la vida",
+"Porque cada día descubro un nuevo motivo para enamorarme de ti",
+"Porque a tu lado, incluso los días difíciles tienen sentido",
+"Porque cuando me abrazas fuerte, todo mi mundo cobra sentido",
+"Porque cada te amo tuyo es un tesoro que guardo en mi corazón",
+"Porque contigo aprendí que el amor verdadero existe",
+"Porque Dios nos juntó con un propósito maravilloso",
+"Porque tu amor es la respuesta a todas mis oraciones",
+"Porque contigo quiero escribir la historia más hermosa de todas",
+"Porque la dulzura de tu voz me calma en los momentos difíciles",
+"Porque cada detalle tuyo es una prueba del amor que Dios nos tiene",
+"Porque cuando estamos juntos, sé que estoy donde debo estar",
+"Porque cada vez que cierro los ojos, lo único que veo eres tú",
+"Porque Dios nos bendijo con un amor que todo lo puede",
+"Porque tus palabras me dan fuerzas cuando más las necesito",
+"Porque tus abrazos son mi refugio en cualquier tormenta",
+"Porque cuando estamos lejos, mi corazón solo quiere volver a ti",
+"Porque con solo mirarte, sé que Dios ha sido bueno conmigo",
+"Porque cada sacrificio vale la pena si es por nuestro amor",
+"Porque en tu sonrisa veo la promesa de un futuro hermoso",
+"Porque quiero pasar toda mi vida agradeciendo a Dios por ponerte en mi camino",
+"Porque cuando me miras, siento que todo es posible",
+"Porque cada amanecer a tu lado es un nuevo motivo para sonreír",
+"Porque eres la respuesta a mis sueños más profundos",
+"Porque nuestra historia es una prueba de que Dios escribe los mejores guiones",
+"Porque cuando caminas a mi lado, sé que no hay miedo ni duda que nos venza",
+"Porque cuando pronuncio tu nombre, mi corazón late más fuerte",
+"Porque nuestra fe nos mantiene unidos en todo momento",
+"Porque con cada beso tuyo entiendo lo que significa el amor verdadero",
+"Porque Dios nos regaló este amor y quiero honrarlo todos los días",
+"Porque cada vez que sonríes, siento que el cielo se ilumina",
+"Porque en cada uno de tus abrazos encuentro fortaleza",
+"Porque nuestro amor es un reflejo del amor que Dios tiene por nosotros",
+"Porque contigo todo es más fácil, incluso los días difíciles",
+"Porque cuando cierro los ojos y pienso en el futuro, solo te veo a ti",
+"Porque cada instante contigo es un recuerdo hermoso que guardo en mi alma",
+"Porque me haces ver la belleza en las cosas más simples",
+"Porque cuando caminas a mi lado, sé que nunca estaré solo",
+"Porque tus besos son la más dulce de las bendiciones",
+"Porque cada segundo lejos de ti es un segundo perdido",
+"Porque en cada mirada tuya encuentro un te amo sin necesidad de palabras",
+"Porque cuando llueve, lo único que quiero es estar contigo bajo la tormenta",
+"Porque si Dios nos unió, es porque tiene un propósito increíble para nosotros",
+"Porque nuestras diferencias nos hacen más fuertes",
+"Porque con cada paso que damos juntos, construimos algo eterno",
+"Porque amo la forma en la que te preocupas por los demás",
+"Porque Dios me hizo para amarte y cuidar de ti siempre",
+"Porque eres la paz en medio de cualquier tormenta",
+"Porque cuando me miras con amor, todo el mundo desaparece",
+"Porque nuestras almas estaban destinadas a encontrarse",
+"Porque tu voz es mi canción favorita",
+"Porque Dios me mostró su amor al ponerme en tu camino",
 "Porque cada vez que duermes en mis brazos, mi corazón salta de felicidad",
   "Porque quiero escribir cada capítulo de mi vida contigo",
   "Porque cada sacrificio que hago por nosotros vale la pena",
