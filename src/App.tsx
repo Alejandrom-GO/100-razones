@@ -303,7 +303,7 @@ function App() {
             </div>
           </div>
 
-          <div className="bg-white/90 backdrop-blur-sm rounded-lg shadow-xl p-8 mb-8 transform hover:scale-[1.01] transition-all">
+          <div className="bg-white/90 backdrop-blur-sm rounded-lg shadow-xl p-8 mb-8">
             <div className="flex justify-between items-center mb-6">
               <button
                 onClick={prevReason}
